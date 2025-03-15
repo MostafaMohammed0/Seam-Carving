@@ -46,7 +46,7 @@ For better performance, use the faster implementation:
 ## Contributors
 
 - **Mostafa Mohammed** - [GitHub Profile](https://github.com/your-profile)
-- **Etahr Mohammed** -  [Github Profile](https://github.com/EtharAlshrqawy/EtharAlshrqawy)
+- **Ethar Mohammed** -  [Github Profile](https://github.com/EtharAlshrqawy)
 - Special thanks to the research papers and references that helped in optimization.
 
 ## License
